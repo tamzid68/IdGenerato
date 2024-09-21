@@ -9,7 +9,7 @@ public class IdGeneratoApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(IdGeneratoApplication.class, args);
-		System.out.println("Sadia!");
+		System.out.println("Tamzid!");
 	}
 
 }

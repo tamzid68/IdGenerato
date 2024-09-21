@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class IdGeneratoApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(IdGeneratoApplication.class, args);
+		System.out.println("Sadia!");
 	}
 
 }
